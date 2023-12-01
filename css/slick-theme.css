@@ -661,9 +661,7 @@ span {
         background-color: var(--dark-color);
     }
 
-    .offical-socail-links {
-        margin-right: 20px;
-    }
+    
 
     ul.nav-menu {
         display: flex;
@@ -704,7 +702,18 @@ span {
     .offical-socail-links {
         display: flex;
         justify-content: center;
+        gap:15px;
     }
+    .git{
+        padding:10px 20px;}
+    .linkedin{
+        padding:10px 20px:}
+
+    body{
+        font-size:14px;
+        width:100%;}
+    .offical-gmail{
+        text-align:center;}
 
     .form-btn {
         display: flex;
