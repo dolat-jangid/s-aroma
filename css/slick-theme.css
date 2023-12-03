@@ -293,7 +293,7 @@
 
 body {
     width: 100%;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
     font-family: 'Chivo' sans-serif;
     background-color: var(--dark-color);
@@ -370,9 +370,10 @@ h3::before {
 a {
     text-decoration: none !important;
     color: #fff;
-    font-size: 18px;
     text-transform: capitalize;
 }
+ul.nav-menu li a{
+   font-size: 18px;}
 
 ul {
     list-style: none;
